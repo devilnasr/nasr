@@ -1,1 +1,1 @@
-https://linked-loss-election-funk.trycloudflare.com
+https://visitors-annotation-games-assigned.trycloudflare.com
