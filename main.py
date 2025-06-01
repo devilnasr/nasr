@@ -1,1 +1,1 @@
-https://salad-genetics-fairfield-mostly.trycloudflare.com
+https://institute-prime-frankfurt-ourselves.trycloudflare.com
