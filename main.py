@@ -1,1 +1,1 @@
-https://visitors-annotation-games-assigned.trycloudflare.com
+https://since-pill-adware-yards.trycloudflare.com
