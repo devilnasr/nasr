@@ -1,1 +1,1 @@
-https://institute-prime-frankfurt-ourselves.trycloudflare.com
+https://christina-stable-suburban-les.trycloudflare.com
