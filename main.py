@@ -1,1 +1,1 @@
-https://labeled-sell-gas-fraction.trycloudflare.com
+https://threshold-likelihood-strategy-defence.trycloudflare.com
