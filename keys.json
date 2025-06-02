@@ -2,11 +2,15 @@
   {
     "key": "NEXIA-1234-TEST",
     "expires": "2029-12-01T00:00:00",
-    "created_by": "Admin"
+    "created_by": "Admin",
+    "max_devices": 1,
+    "used_devices": []
   },
   {
     "key": "NEXIA-PRO-KEY-99",
     "expires": "2024-01-01T00:00:00",
-    "created_by": "X"
+    "created_by": "X",
+    "max_devices": 1,
+    "used_devices": []
   }
 ]
