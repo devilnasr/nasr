@@ -1,1 +1,1 @@
-https://cast-chassis-cited-fight.trycloudflare.com
+https://registrar-wav-prediction-pirates.trycloudflare.com
