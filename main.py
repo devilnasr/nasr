@@ -1,1 +1,1 @@
-https://declare-speech-iraqi-atmospheric.trycloudflare.com
+https://look-mls-firewall-techrepublic.trycloudflare.com
