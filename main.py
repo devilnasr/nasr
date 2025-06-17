@@ -1,1 +1,1 @@
-https://alt-discounted-pattern-differential.trycloudflare.com
+https://here-helped-cookie-moderators.trycloudflare.com
