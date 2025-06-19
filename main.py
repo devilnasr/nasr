@@ -1,1 +1,1 @@
-https://relate-lab-wake-infection.trycloudflare.com
+https://lab-vermont-rr-prior.trycloudflare.com
