@@ -1,1 +1,1 @@
-https://array-delicious-messenger-admissions.trycloudflare.com
+https://compaq-current-seconds-tail.trycloudflare.com
