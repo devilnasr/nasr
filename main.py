@@ -1,1 +1,1 @@
-https://left-metabolism-invasion-alliance.trycloudflare.com
+https://kb-better-bet-antique.trycloudflare.com
