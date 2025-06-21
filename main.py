@@ -1,1 +1,1 @@
-https://compaq-current-seconds-tail.trycloudflare.com
+https://horrible-safe-clinical-maintenance.trycloudflare.com
